@@ -797,6 +797,8 @@ This repository contains a regularly updated paper list for **Speculative Decodi
   *Jiankun Wei, Abdulrahman Abdulrazzag, Tianchen Zhang, Adel Muursepp, Gururaj Saileshwar.* [[pdf](https://arxiv.org/pdf/2411.01076)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Disparate Impacts of Speculative Decoding**  
   *Jameson Sandler, Ahmet Üstün, Marco Romanelli, Sara Hooker, Ferdinando Fioretto.* [[pdf](https://arxiv.org/pdf/2510.02128)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute**  
+  *Zhixu Du, Weijia Han, Hai Helen Li, Yiran Chen*. [[pdf](https://arxiv.org/pdf/2610.02491)], 2026.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Per--Token_Sufficient_Compute-lightgray)
 
 ### Other Techniques
 
